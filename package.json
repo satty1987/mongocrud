@@ -25,7 +25,7 @@
     "@okta/jwt-verifier": "^1.0.0",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "mongodb": "^3.1.8",
+    "mongodb": "^3.1.13",
     "request": "^2.88.0"
   },
   "devDependencies": {
